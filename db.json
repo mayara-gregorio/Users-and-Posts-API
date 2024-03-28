@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "aaaaa",
+      "name": "Mayara dos Santos Gregório",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130478070?v=4",
+      "biografy": "Me chamo Mayara. Sou estudante de programação na rede IFMA"
+    },
+    {
+      "id": "7fa7",
+      "name": "Mikaelly dos Santos Gregório",
+      "avatarUrl": "https://i.pinimg.com/550x/18/68/87/1868872a39bf2752e6de7a4544300596.jpg",
+      "biografy": "Sou mãe"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "HTML",
+      "description": "Post relacionado a HTML",
+      "id_user": "aaaaa"
+    },
+    {
+      "id": "ac19",
+      "title": "Amamentação",
+      "description": "Este post é sobre Amamentação",
+      "id_user": "7fa7"
+    },
+    {
+      "id": "35bf",
+      "title": "React",
+      "description": "Este post é sobre React",
+      "id_user": "aaaaa"
+    }
+  ]
+}
